@@ -1,0 +1,8 @@
+{
+  "name": "Fuzzy Type",
+  "mod": 0,
+  "version": "1.0.0",
+  "min_anki_version": "25.02",
+  "author": "luisdreisbach",
+  "description": "Marks accent-only type-in-the-answer mismatches in orange."
+}
